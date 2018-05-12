@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4247
     wikipedia: http://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31968#The-Birth-of-the-War-God--A-Poem-by-K-lid-sa
 gutenberg_issued: '2010-04-12'
 gutenberg_type: Text
 identifiers:
