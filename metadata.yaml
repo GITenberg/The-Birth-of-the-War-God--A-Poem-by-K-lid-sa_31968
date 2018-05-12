@@ -1,0 +1,37 @@
+_repo: The-Birth-of-the-War-God--A-Poem-by-K-lid-sa_31968
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Griffith, Ralph T. H. (Ralph Thomas Hotchkin)
+    aliases:
+    - Griffiths, Ralph T. H. (Ralph Thomas Hotchkin)
+    - Griffith, Ralph Thomas Hotchkin
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '26788'
+    url: http://www.gutenberg.org/2009/agents/26788
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_T._H._Griffith
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kalidasa
+    alias: कालिदास
+    gutenberg_agent_id: '4247'
+    url: http://www.gutenberg.org/2009/agents/4247
+    wikipedia: http://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa
+description: ''
+gutenberg_issued: '2010-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31968'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanskrit poetry -- Translations into English'
+- !lcc 'PK'
+title: 'The Birth of the War-God: A Poem by Kálidása'
+url: http://www.gutenberg.org/ebooks/31968
